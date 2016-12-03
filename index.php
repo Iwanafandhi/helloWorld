@@ -1,3 +1,3 @@
 <?php
-echo 'PHP Hello World Default!';
+echo 'PHP Hello World for Default!';
 ?>
